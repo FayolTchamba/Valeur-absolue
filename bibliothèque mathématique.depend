@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726007797 source:c:\users\fayol tchamba\documents\mes projets\bibliothèque mathématique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
